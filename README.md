@@ -1,6 +1,6 @@
 # 开发
 ----
->大部分软件支持Windows，Mac，Linux三大系统，如果只支持Mac的，会在后面表明for Mac.
+>大部分软件支持Windows，Mac，Linux三大系统，如果只支持Mac的，会在后面标明for Mac.
 
 **持续更新中**  
 [Github地址：https://github.com/xinghongfei ](https://github.com/xinghongfei)  
