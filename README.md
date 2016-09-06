@@ -1,10 +1,14 @@
-# 开发
-----
 >大部分软件支持Windows，Mac，Linux三大系统，如果只支持Mac的，会在后面标明for Mac.
 
 **持续更新中**  
 [Github地址：https://github.com/xinghongfei ](https://github.com/xinghongfei)  
 [简书个人主页：http://www.jianshu.com/users/8ded1d219a79/latest_articles](http://www.jianshu.com/users/8ded1d219a79/latest_articles)
+
+
+
+# 开发
+----
+
 
 ## [Android Studio]()
 
