@@ -257,13 +257,5 @@
 
 ![iPic](http://upload-images.jianshu.io/upload_images/2893137-5c3f49e56f176669.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 推荐阅读
-[Android高级攻城狮－阅读源码的经验总结](http://www.jianshu.com/p/be86e5678252)
-[Android高级工程师回忆录：我是如何用一年时间从菜鸟成为高级工程师](http://www.jianshu.com/p/619d6bccbdb8)
-  
-##  如果你有用的很酸爽的软件，请在下面留言，我会持续更新.....
-（未来还想把常用软件加进来。我们“开源社区”一起努力，发现互联网中最美好的东西，大家推荐一下自己用的顺手的软件吧，每个类型推荐一款（格式如下“**浏览器**中**Chrome**最好用”或者“**Genymotion**是最好的**模拟器**”）
 
----
- **结尾：**每当我看到你的点赞、评论、或打赏都会感觉特别激动和高兴，真希望正如你看我的文章一样。让我们共同努力，Be kind one another。
->*首次发表  ：于北京，2016.9.4 凌晨3:15*
+
