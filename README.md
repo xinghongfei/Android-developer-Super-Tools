@@ -9,7 +9,10 @@
 # 开发 Fonts
 # Development Fonts
 
-![Ubuntu font Family](http://upload-images.jianshu.io/upload_images/2893137-d8d13e8d2e274d66.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## [Ubuntu Fonts -Mono](http://font.ubuntu.com/)
+
+![Ubuntu font Family](http://cyrsis.github.io/images/UbuntuFont.gif)
+
 **Why:** It is the best font for Development, used in Android Studio and Intellij + Everywhere
 
 
