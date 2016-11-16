@@ -7,17 +7,20 @@
 
 
 # 开发
+# Development
 ----
 
 
 ## [Android Studio]()
 
 **推荐理由：**官方推出，高效，功能强大。
+**Why ** It is used by Google and it is from intellij
 
 ![android studio](http://upload-images.jianshu.io/upload_images/2893137-d8d13e8d2e274d66.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## [Genymotion](https://www.genymotion.com/)
 **推荐理由：**世界上最快的模拟器
+**Why **It still much better than any other emulator in 2016
 
 ![Genymotion](http://upload-images.jianshu.io/upload_images/2893137-9efd21cf475ff9a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -25,18 +28,22 @@
 
 ## [Sublime text](https://www.sublimetext.com/) 
 **推荐理由：**最美的代码阅读和编辑软件，功能强大。如果你想用它来编辑代码，安装[AndroidImport](https://packagecontrol.io/packages/AndroidImport)插件，可以自动补全代码。我本人主要是用它来阅读源码。
+**Why **It make thing pretty and it is easy to read
 
 ![Sublime text](http://upload-images.jianshu.io/upload_images/2893137-013de3d3a8562e46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## [设置Android studio 主题(下载jar)](https://github.com/xinghongfei/android-studio-setting)
 推荐理由：统一风格，效率更高。为Android studio设置和Sublime text同样的风格，提高效率。
+**Why **The quick and easy way to setup Android Studio
+
 
 ![设置后效果](http://upload-images.jianshu.io/upload_images/2893137-ddbdac999b586ffd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 设置方法请看我另外一篇文章[Android高级攻城狮－阅读源码的经验总结](http://www.jianshu.com/p/be86e5678252)
 
 ## [Github Desktop](https://desktop.github.com/)
 **推荐理由：**使用Github无需理由，只是很多人使用命令行来操作，感觉自己很高大上。但如果你还不了解命令行的使用，个人不赞同的你再去学，直接使用客户端程序Github Desktop就可以。既然它只是一个工具，能熟练使用就可以，没有必要花那么多精力去学，去记命令行。当多人协助，Github Desktop无法满足你的需求时，再考虑使用命令行。
+**Why ** You can spend all years playing Git, but this is look enough to use in everyday 
 
 ![Github Desktop.png](http://upload-images.jianshu.io/upload_images/2893137-cef2851b6ec52b2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -48,11 +55,13 @@
 *Android studio 插件*
 ## [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
 **推荐理由：**注入框架,高效开发，省去很多重复，且没有技术含量的工作。
+**Why ** It helps generate the reference to the view, no more "findViewByID" , save you 2 hours  a day
 
 ![zelezny_animated.gif](http://upload-images.jianshu.io/upload_images/2893137-72dc0921907a10db.gif?imageMogr2/auto-orient/strip)
 
 ## [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)
 **推荐理由：**可以生成Material Design图标的插件。
+**Why **You need a logo or some picture, this thing can help, otherwise u can manual import the image, and it save you 20 mins a day
 
 ![capture.gif](http://upload-images.jianshu.io/upload_images/2893137-9d129fd55b72ee8b.gif?imageMogr2/auto-orient/strip)
 
@@ -60,17 +69,19 @@
 
 ##[ GsonFormat](https://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
 **推荐理由：**将Json自动转化成类，高效开发。
-
+**Why **So you know how to Json look like
 
 ![GsonFormat.gif](http://upload-images.jianshu.io/upload_images/2893137-0599c50641627ba1.gif?imageMogr2/auto-orient/strip)
 
 ### [ECtranslation](https://github.com/Skykai521/ECTranslation)
 **推荐理由：**可以在Android Studio IDE 内直接将英文翻译成中文。
+**Why ** Make translation ENG to Chinese easy
 
 ![ECTranslation.png](http://upload-images.jianshu.io/upload_images/2893137-89d1245a58237d33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## [Android Parcelable code generator](https://plugins.jetbrains.com/plugin/7332?pr=androidstudio)  
 **推荐理由：**高效开发神器，在类中插入实现了Parcelable接口的代码。
+**Why **it save you 2 hours everyday to do the boilerplate code
 ![Android Parcelable code generator](http://upload-images.jianshu.io/upload_images/2893137-05969a80b3f57e6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -95,6 +106,8 @@
 **推荐理由：**直接在Chrome侧边栏向打开文件夹一样的查看别人的项目。
 
 ![Octotree](http://upload-images.jianshu.io/upload_images/2893137-65b2cbb2862b186a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 
