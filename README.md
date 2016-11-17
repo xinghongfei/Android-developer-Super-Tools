@@ -64,6 +64,7 @@
 
 ## [Visual Studio Code](http://code.visualstudio.com/)
 
+![Visual Studio Code](http://cyrsis.github.io/images/VisualStudioCode.gif)
 
 
 **Why:** The best text editor that can work in Windows, Mac and Linux
