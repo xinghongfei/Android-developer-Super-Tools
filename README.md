@@ -62,7 +62,12 @@
 
 ![Github Desktop.png](http://upload-images.jianshu.io/upload_images/2893137-cef2851b6ec52b2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## [Visual Studio Code](http://code.visualstudio.com/)
 
+![Visual Studio Code](http://cyrsis.github.io/images/VisualStudioCode.gif)
+
+
+**Why:** The best text editor that can work in Windows, Mac and Linux
 
 
 # 插件
@@ -305,6 +310,9 @@
 分析：非常感谢，也解决了困扰我很长时间的问题，每次编辑文章和发表文章，图片上传浪费了我很多时间，如果想发表在多个平台，更是要做很多重复的工作。使用这个软件上传图片会获得一个Markdown格式的地址，放在任何Markdown中都会自动加载。
 
 ![iPic](http://upload-images.jianshu.io/upload_images/2893137-5c3f49e56f176669.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 
 
 
